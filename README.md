@@ -10,13 +10,13 @@ Through this web interface, administrators can effortlessly curate and update th
 1. clone project
 
 ```shell
-git clone https://github.com/open-kf/smart-qa-admin.git
+git clone https://github.com/AyushRatan1/VED-AI.git
 ```
 
 2. install dependencies
 
 ```shell
-cd smart-qa-admin
+cd VED-AI
 npm install
 ```
 
