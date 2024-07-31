@@ -47,7 +47,7 @@ export function Login() {
   return (
     <div className="h-full flex flex-col items-center mt-[10vh]">
       <h1 className="mb-[15vh] scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl">
-        OpenKF Docs Bot Admin
+        VED AI
       </h1>
       <Form {...form}>
         <form onSubmit={form.handleSubmit(onSubmit)} className="w-96 space-y-6">
