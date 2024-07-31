@@ -38,6 +38,4 @@ npm run build
 
 This command triggers the build process defined in your `package.json`, resulting in a dist directory that contains the optimized version of your application ready for deployment.
 
-5. deploy
 
-You can deploy the built application to any hosting service that supports static file hosting, such as Vercel, Netlify, or GitHub Pages. Simply upload the contents of the dist directory to your chosen hosting provider, and your application will be live and accessible to users.
