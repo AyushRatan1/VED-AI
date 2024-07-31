@@ -1,11 +1,9 @@
-# Smart QA Service: An Intelligent Knowledge Base
-The VED AI harnesses the power of advanced technologies like Large Language Models (LLM) and Retrieval-Augmented Generation (RAG) to learn from user-customized knowledge bases. It is designed to deliver contextually relevant answers across a broad spectrum of inquiries, ensuring rapid and precise information retrieval. This capability not only enhances user experience but also supports a more efficient knowledge management process.
+VED AI: A Personalized AI Companion
+VED AI harnesses the power of advanced technologies like Large Language Models (LLM) and Retrieval-Augmented Generation (RAG) to learn from user-customized knowledge bases. It is designed to deliver contextually relevant answers across a broad spectrum of inquiries, ensuring rapid and precise information retrieval. This capability not only enhances user experience but also supports a more efficient knowledge management process.
 
-This project unveils an intuitive web-based administration interface for the VED AI, meticulously designed to empower administrators with full control over the service's configuration and content. This administrative platform serves as the central hub for managing the underlying knowledge base, user interactions, and analytical insights.
+This project unveils an intuitive web-based administration interface for VED AI, meticulously designed to empower administrators with full control over the service's configuration and content. This administrative platform serves as the central hub for managing the underlying knowledge base, user interactions, and analytical insights.
 
-Through this web interface, administrators can effortlessly curate and update the knowledge base to ensure the information remains current and relevant. It allows for the easy monitoring of user queries and feedback, enabling continuous improvement of the service based on real-world use. 
-
----
+Through this web interface, administrators can effortlessly curate and update the knowledge base to ensure the information remains current and relevant. It allows for the easy monitoring of user queries and feedback, enabling continuous improvement of the service based on real-world use.
 
 # Quick Start Guide
 
